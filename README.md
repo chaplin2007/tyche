@@ -1,2 +1,0 @@
-# tyche
-java
